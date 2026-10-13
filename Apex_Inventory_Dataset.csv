@@ -1,0 +1,11 @@
+Product_ID,Product_Name,Category,Supplier_ID,Units_In_Stock,Unit_Cost,Reorder_Level
+PRD001,Laptop,Electronics,SUP001,40,900.0,20
+PRD002,Office Chair,Furniture,SUP002,15,180.0,25
+PRD003,Tablet,Electronics,SUP003,50,250.0,20
+PRD004,Monitor,Electronics,SUP004,48,180.0,25
+PRD005,Keyboard,Electronics,SUP005,40,45.0,30
+PRD006,Desk,Furniture,SUP006,30,200.0,20
+PRD007,Microwave,Appliances,SUP007,12,150.0,18
+PRD008,Air Fryer,Appliances,SUP008,10,100.0,12
+PRD009,Printer,Office Supplies,SUP009,25,160.0,15
+PRD010,Refrigerator,Appliances,SUP010,20,111.0,15

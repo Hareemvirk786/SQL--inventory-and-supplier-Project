@@ -1,0 +1,31 @@
+Supplier_ID,Supplier_Name,Category,State,Supplier_Rating
+SUP001,Supplier 1,Electronics,Florida,10
+SUP002,Supplier 2,Appliances,New York,7
+SUP003,Supplier 3,Appliances,New York,3
+SUP004,Supplier 4,Furniture,California,4
+SUP005,Supplier 5,Office Supplies,California,3
+SUP006,Supplier 6,Office Supplies,Texas,3
+SUP007,Supplier 7,Office Supplies,California,10
+SUP008,Supplier 8,Appliances,New York,10
+SUP009,Supplier 9,Electronics,Texas,10
+SUP010,Supplier 10,Appliances,New York,10
+SUP011,Supplier 11,Appliances,New York,7
+SUP012,Supplier 12,Electronics,California,3
+SUP013,Supplier 13,Office Supplies,California,1
+SUP014,Supplier 14,Electronics,California,8
+SUP015,Supplier 15,Appliances,California,1
+SUP016,Supplier 16,Appliances,California,5
+SUP017,Supplier 17,Furniture,California,2
+SUP018,Supplier 18,Electronics,Texas,5
+SUP019,Supplier 19,Office Supplies,Florida,8
+SUP020,Supplier 20,Appliances,Florida,3
+SUP021,Supplier 21,Electronics,Texas,10
+SUP022,Supplier 22,Electronics,Florida,7
+SUP023,Supplier 23,Furniture,Texas,9
+SUP024,Supplier 24,Appliances,California,7
+SUP025,Supplier 25,Appliances,California,2
+SUP026,Supplier 26,Appliances,Texas,4
+SUP027,Supplier 27,Furniture,Florida,4
+SUP028,Supplier 28,Electronics,New York,5
+SUP029,Supplier 29,Furniture,Texas,2
+SUP030,Supplier 30,Appliances,Texas,3
